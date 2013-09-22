@@ -1,0 +1,325 @@
+TReadingRates
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Info.plist ReadingRates/ReadingRates-Info.plist
+cProcessPCH /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/PrecompiledHeaders/ReadingRates-Prefix-gywvvjrjqpjjaafnwyravdukvknj/ReadingRates-Prefix.pch.pth ReadingRates/ReadingRates-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/ViewController.o /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/AppDelegate.o /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/main.o /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/ReadingRates normal i386
+cGenerateDSYMFile /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app.dSYM /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/ReadingRates
+cCpResource ReadingRates/Default@2x.png DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default@2x.png
+cCopyStringsFile /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/en.lproj/InfoPlist.strings ReadingRates/en.lproj/InfoPlist.strings
+cCpResource ReadingRates/Default.png DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default.png
+cCpResource ReadingRates/Default-568h@2x.png DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default-568h@2x.png
+cCompileXIB /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/en.lproj/ViewController.xib
+cTouch /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051BA71780000000000000110
+t1371173240
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005107121F0000000000228FE0
+t1359417887
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005107122400000000003DDFA0
+t1359417892
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005107122300000000000015F7
+t1359417891
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000005107122C0000000000000E8D
+t1359417900
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005107122E0000000000AB6230
+t1359417902
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000510712B60000000000001B73
+t1359418038
+s7027
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/PrecompiledHeaders/ReadingRates-Prefix-gywvvjrjqpjjaafnwyravdukvknj/ReadingRates-Prefix.pch.pth
+t1372559927
+s4678796
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/AppDelegate.o
+t1372607673
+s90124
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/ReadingRates.LinkFileList
+c0000000051CF9A370000000000000272
+t1372559927
+s626
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/ViewController.o
+t1372610694
+s79112
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/main.o
+t1372559928
+s3384
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app
+t1372610695
+s306
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app.dSYM
+t1372610695
+s102
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default-568h@2x.png
+t1372559929
+s18594
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default.png
+t1372559929
+s6540
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default@2x.png
+t1372559929
+s16107
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Info.plist
+t1372559927
+s816
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/PkgInfo
+t1372559927
+s8
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/ReadingRates
+t1372610694
+s24968
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/en.lproj/InfoPlist.strings
+t1372559929
+s42
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/en.lproj/ViewController.nib
+t1372607675
+s4440
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/AppDelegate.h
+c0000000051CF99BD000000000000017F
+t1372559805
+s383
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/AppDelegate.m
+c0000000051CF99BD0000000000000912
+t1372559805
+s2322
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/ReadingRates-Prefix.pch
+c0000000051CF99BD0000000000000147
+t1372559805
+s327
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/ViewController.h
+c0000000051D054B40000000000000237
+t1372607668
+s567
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/ViewController.m
+c0000000051D0608500000000000005FC
+t1372610693
+s1532
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/en.lproj/InfoPlist.strings
+c0000000051CF99BD000000000000002D
+t1372559805
+s45
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/en.lproj/ViewController.xib
+c0000000051D054B5000000000000B2C9
+t1372607669
+s45769
+
+N/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/main.m
+c0000000051CF99BD0000000000000163
+t1372559805
+s355
+
+NReadingRates/ReadingRates-Info.plist
+c0000000051CF99BD0000000000000494
+t1372559805
+s1172
+
+CBuild AST from /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/AppDelegate.m
+r0
+
+CBuild AST from /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/ViewController.m
+r0
+
+CBuild AST from /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2769d2269b80b741^24f1da269b80b741^---0#1#0#--18"Check dependencies36"10EE5BC6-3DA6-4704-8B8E-AC2EBAE26800-
+
+CCompileC DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/AppDelegate.o /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394300469.151059
+e394300473.557011
+r1
+xCompileC
+xDerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/AppDelegate.o
+x/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/AppDelegate.md4d426358c80b741^78988e398c80b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/AppDelegate.m0000000000000000^4488"CompileC DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/AppDelegate.o ReadingRates/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-generated-files.hmap -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-own-target-headers.hmap -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-all-target-headers.hmap -iquote /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-project-headers.hmap -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/DerivedSources/i386 -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/DerivedSources -F/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator -include /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/PrecompiledHeaders/ReadingRates-Prefix-gywvvjrjqpjjaafnwyravdukvknj/ReadingRates-Prefix.pch -MMD -MT dependencies -MF /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/AppDelegate.dia -c /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/AppDelegate.m -o /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/AppDelegate.o36"EA4F91E1-D307-4278-8EF4-36AE3DDC5B4F-
+
+CCompileC DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/ViewController.o /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394303494.876148
+e394303494.934652
+r1
+xCompileC
+xDerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/ViewController.o
+x/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/ViewController.m166be0069880b741^9144ef069880b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/ViewController.m0000000000000000^4506"CompileC DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/ViewController.o ReadingRates/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-generated-files.hmap -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-own-target-headers.hmap -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-all-target-headers.hmap -iquote /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-project-headers.hmap -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/DerivedSources/i386 -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/DerivedSources -F/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator -include /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/PrecompiledHeaders/ReadingRates-Prefix-gywvvjrjqpjjaafnwyravdukvknj/ReadingRates-Prefix.pch -MMD -MT dependencies -MF /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/ViewController.dia -c /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/ViewController.m -o /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/ViewController.o36"9B109521-8194-428D-A973-142EE8D8E005-
+
+CCompileC DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/main.o /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394252728.037859
+e394252728.170533
+r1
+xCompileC
+xDerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/main.o
+x/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/main.m51dc09b8d17fb741^dba72bb8d17fb741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/main.m0000000000000000^4446"CompileC DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/main.o ReadingRates/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-generated-files.hmap -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-own-target-headers.hmap -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-all-target-headers.hmap -iquote /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-project-headers.hmap -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/DerivedSources/i386 -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/DerivedSources -F/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator -include /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/PrecompiledHeaders/ReadingRates-Prefix-gywvvjrjqpjjaafnwyravdukvknj/ReadingRates-Prefix.pch -MMD -MT dependencies -MF /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/main.dia -c /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/main.m -o /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/main.o36"661464A3-014F-4161-94AB-469C4BEEA3D0-
+
+CCompileXIB /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/en.lproj/ViewController.xib
+s394300474.641201
+e394300475.471634
+r1
+xCompileXIB
+x/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compiling /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/en.lproj/ViewController.xib5839a43a8c80b741^72c2783b8c80b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/en.lproj/ViewController.xib0000000000000000^1059"CompileXIB ReadingRates/en.lproj/ViewController.xib    cd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/en.lproj/ViewController.nib /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/en.lproj/ViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"192B0D9F-B5D7-4689-9DF6-9B2CACD22524-
+
+CCopyStringsFile /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/en.lproj/InfoPlist.strings ReadingRates/en.lproj/InfoPlist.strings
+s394252729.069661
+e394252729.074490
+r1
+xCopyStringsFile
+x/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/en.lproj/InfoPlist.strings
+xReadingRates/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ReadingRates/en.lproj/InfoPlist.strings13ee11b9d17fb741^c71113b9d17fb741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/en.lproj/InfoPlist.strings0000000000000000^727"CopyStringsFile DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/en.lproj/InfoPlist.strings ReadingRates/en.lproj/InfoPlist.strings    cd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/en.lproj -- ReadingRates/en.lproj/InfoPlist.strings36"4F33EB19-7ACE-4FBC-8595-833D04D1A411-
+
+CCpResource ReadingRates/Default-568h@2x.png DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default-568h@2x.png
+s394252729.069854
+e394252729.075424
+r1
+xCpResource
+xReadingRates/Default-568h@2x.png
+xDerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default-568h@2x.png77f611b9d17fb741^ec4e13b9d17fb741^---0#0#0#-19%DVTDocumentLocation2@185"file://localhost/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default-568h@2x.png000000000080d041^788"CpResource "ReadingRates/Default-568h@2x.png" "DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default-568h@2x.png"    cd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/Default-568h@2x.png" /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app36"E675922D-5DA1-45D3-BEA0-BA37EA1C6E03-
+
+CCpResource ReadingRates/Default.png DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default.png
+s394252729.069653
+e394252729.072067
+r1
+xCpResource
+xReadingRates/Default.png
+xDerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default.pngafed11b9d17fb741^507312b9d17fb741^---0#0#0#-19%DVTDocumentLocation2@177"file://localhost/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default.png000000000080d041^758"CpResource ReadingRates/Default.png DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default.png    cd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/Default.png /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app36"3971A871-85B3-4235-90A7-A3D96F040288-
+
+CCpResource ReadingRates/Default@2x.png DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default@2x.png
+s394252729.069647
+e394252729.073128
+r1
+xCpResource
+xReadingRates/Default@2x.png
+xDerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default@2x.pnge1ed11b9d17fb741^20b812b9d17fb741^---0#0#0#-19%DVTDocumentLocation2@180"file://localhost/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default@2x.png000000000080d041^773"CpResource "ReadingRates/Default@2x.png" "DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Default@2x.png"    cd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/Default@2x.png" /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app36"6C5DB5AF-C25A-4EB5-A337-C642D26A2943-
+
+CGenerateDSYMFile /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app.dSYM /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/ReadingRates
+s394303494.989830
+e394303495.020156
+r1
+xGenerateDSYMFile
+x/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app.dSYM
+x/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/ReadingRates
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Generate /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app.dSYMe179fd069880b741^9e2805079880b741^---0#0#0#-19%DVTDocumentLocation2@171"file://localhost/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app.dSYM/0000000000000000^887"GenerateDSYMFile DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app.dSYM DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/ReadingRates    cd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/ReadingRates -o /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app.dSYM36"E7D2BBF3-4F65-44C5-9431-9826E2432418-
+
+CLd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/ReadingRates normal i386
+s394303494.941607
+e394303494.970102
+r1
+xLd
+x/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/ReadingRates
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection167"Link /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/ReadingRates3a20f1069880b741^3677f8069880b741^---0#0#0#--1517"Ld DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/ReadingRates normal i386    cd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator -F/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator -filelist /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/Objects-normal/i386/ReadingRates.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/ReadingRates36"58C7FBF0-5BB5-420A-A9E2-CEAA811EA7FD-
+
+CProcessInfoPlistFile /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Info.plist ReadingRates/ReadingRates-Info.plist
+s394252727.233394
+e394252727.236880
+r1
+xProcessInfoPlistFile
+x/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Info.plist
+xReadingRates/ReadingRates-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process ReadingRates/ReadingRates-Info.plistabd13bb7d17fb741^e9b63cb7d17fb741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/ReadingRates-Info.plist0000000000000000^883"ProcessInfoPlistFile DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Info.plist ReadingRates/ReadingRates-Info.plist    cd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ReadingRates/ReadingRates-Info.plist -genpkginfo /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app/Info.plist36"B0415CA7-15FC-490A-A2D2-180F60F89276-
+
+CProcessPCH /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/PrecompiledHeaders/ReadingRates-Prefix-gywvvjrjqpjjaafnwyravdukvknj/ReadingRates-Prefix.pch.pth ReadingRates/ReadingRates-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394252727.245013
+e394252728.030899
+r1
+xProcessPCH
+x/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/PrecompiledHeaders/ReadingRates-Prefix-gywvvjrjqpjjaafnwyravdukvknj/ReadingRates-Prefix.pch.pth
+xReadingRates/ReadingRates-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile ReadingRates/ReadingRates-Prefix.pchc1e03eb7d17fb741^21e907b8d17fb741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/ReadingRates-Prefix.pch0000000000000000^4304"ProcessPCH DerivedData/ReadingRates/Build/Intermediates/PrecompiledHeaders/ReadingRates-Prefix-gywvvjrjqpjjaafnwyravdukvknj/ReadingRates-Prefix.pch.pth ReadingRates/ReadingRates-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-generated-files.hmap -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-own-target-headers.hmap -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-all-target-headers.hmap -iquote /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/ReadingRates-project-headers.hmap -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/DerivedSources/i386 -I/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/ReadingRates.build/Debug-iphonesimulator/ReadingRates.build/DerivedSources -F/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/PrecompiledHeaders/ReadingRates-Prefix-gywvvjrjqpjjaafnwyravdukvknj/ReadingRates-Prefix.pch.dia -c /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/ReadingRates/ReadingRates-Prefix.pch -o /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/PrecompiledHeaders/ReadingRates-Prefix-gywvvjrjqpjjaafnwyravdukvknj/ReadingRates-Prefix.pch.pth -MMD -MT dependencies -MF /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Intermediates/PrecompiledHeaders/ReadingRates-Prefix-gywvvjrjqpjjaafnwyravdukvknj/ReadingRates-Prefix.pch.d36"61CAF617-B5A0-473D-B9D4-110C198FB790-
+
+CProcessPCH /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Index/PrecompiledHeaders/ReadingRates-Prefix-gtpkwgunrxeqnagqhvgcjthufcob_ast/ReadingRates-Prefix.pch.pth ReadingRates/ReadingRates-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app
+s394303495.037703
+e394303495.047539
+r1
+xTouch
+x/Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Touch /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.appf8c109079880b741^b62b0c079880b741^---0#0#0#--530"Touch DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app    cd /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/nicholasschneider/Desktop/Projects/GettingStarted1/ReadingRates/DerivedData/ReadingRates/Build/Products/Debug-iphonesimulator/ReadingRates.app36"FE862A2C-216D-4E36-9531-D8F775E3391A-
+
