@@ -2,7 +2,7 @@
 //  ViewController.h
 //  ReadingRates
 //
-//  Created by Nicholas Schneider on 6/29/13.
+//  Created by Nicholas Schneider on 11/11/13.
 //  Copyright (c) 2013 Nicholas Schneider. All rights reserved.
 //
 

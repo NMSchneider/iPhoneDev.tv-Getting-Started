@@ -2,7 +2,7 @@
 //  ViewController.m
 //  ReadingRates
 //
-//  Created by Nicholas Schneider on 6/29/13.
+//  Created by Nicholas Schneider on 11/11/13.
 //  Copyright (c) 2013 Nicholas Schneider. All rights reserved.
 //
 
@@ -26,6 +26,7 @@
     [self.view addGestureRecognizer:backgroundTap];
 }
 
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
@@ -33,8 +34,10 @@
 }
 
 - (IBAction)calculateButtonPressed:(id)sender {
+    
     [self calculateWordsPerMinute];
     [self dismissKeyboard];
+    
 }
 
 
@@ -48,13 +51,17 @@
     if (timeInMinutes) {
         self.wordsPerMinuteLabel.text = [NSString stringWithFormat:@"%.0f", wordsPerMinute];
     } else {
-        self.wordsPerMinuteLabel.text = [NSString stringWithFormat:@"Words Per Minute"];
-    }    
+        self.wordsPerMinuteLabel.text = @"0";
+    }
+    
 }
 
 
-- (void) dismissKeyboard {
-    [self.view endEditing:YES];
+- (void)dismissKeyboard {
+    
+    [self.view endEditing:NO];
+    
 }
+
 
 @end
