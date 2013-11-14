@@ -2,12 +2,12 @@
 //  ViewController.m
 //  ReadingRates
 //
-//  Created by Nicholas Schneider on 6/29/13.
+//  Created by Nicholas Schneider on 11/11/13.
 //  Copyright (c) 2013 Nicholas Schneider. All rights reserved.
 //
 
 #import "ViewController.h"
-#import <Foundation/Foundation.h>
+#import "Foundation/Foundation.h"
 
 @interface ViewController ()
 
@@ -27,6 +27,7 @@
     [self.view addGestureRecognizer:backgroundTap];
 }
 
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
@@ -34,53 +35,29 @@
 }
 
 
-// Calculator
-- (IBAction)calculateButtonPressed:(id)sender {
-    [self calculateWordsPerMinute];
-    [self dismissKeyboard];
-}
 
+
+#pragma mark - Info Buttons
 - (IBAction)wordsPerLineInfoButtonPressed:(id)sender {
+    
     [self wordsPerLineInfoShowAlert];
+    
 }
 
 - (IBAction)linesReadInfoButtonPressed:(id)sender {
+    
     [self linesReadInfoShowAlert];
+    
 }
 
 - (IBAction)timeInMinutesInfoButtonPressed:(id)sender {
+    
     [self timeInMinutesInfoShowAlert];
-}
-
-
-
-- (void) calculateWordsPerMinute {
-    float wordsPerLine = [self.wordsPerLineTextField.text floatValue];
-    float linesRead = [self.linesReadTextField.text floatValue];
-    float timeInMinutes = [self.timeInMinutesTextField.text floatValue];
     
-    float wordsPerMinute = wordsPerLine * linesRead / timeInMinutes ;
-    
-    if (timeInMinutes) {
-        self.wordsPerMinuteLabel.text = [NSString stringWithFormat:@"%.0f", wordsPerMinute];
-    } else {
-        self.wordsPerMinuteLabel.text = [NSString stringWithFormat:@"Words Per Minute"];
-    }    
 }
 
 
 
-
-// Keyboard Dismissal
-- (void) dismissKeyboard {
-    [self.view endEditing:YES];
-}
-
-
-
-
-
-// Info Button Alerts
 - (void) wordsPerLineInfoShowAlert {
     
     UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Words Per Line (WPL)"
@@ -90,7 +67,7 @@
                                           otherButtonTitles:@"Lines Read",@"Time In Minutes", nil];
     
     [alert show];
-
+    
 }
 
 
@@ -124,9 +101,12 @@
     
 }
 
-- (void)alertView:(UIAlertView *)alertView clickedButtonAtIndex:(NSInteger)buttonIndex
+
+- (void)alertView: (UIAlertView *)alertView clickedButtonAtIndex:(NSInteger)buttonIndex
 {
+    
     NSString *title = [alertView buttonTitleAtIndex:buttonIndex];
+    
     if([title isEqualToString:@"Words Per Line"]) {
         [self wordsPerLineInfoShowAlert];
     } else if ([title isEqualToString:@"Lines Read"]) {
@@ -134,10 +114,51 @@
     } else if ( [title isEqualToString:@"Time In Minutes"]){
         [self timeInMinutesInfoShowAlert];
     }
+    
 }
 
 
-// Stopwatch
+
+
+
+
+#pragma mark - Calculator
+
+- (IBAction)calculateButtonPressed:(id)sender {
+    
+    [self calculateWordsPerMinute];
+    [self dismissKeyboard];
+    
+}
+
+
+- (void) calculateWordsPerMinute {
+    float wordsPerLine = [self.wordsPerLineTextField.text floatValue];
+    float linesRead = [self.linesReadTextField.text floatValue];
+    float timeInMinutes = [self.timeInMinutesTextField.text floatValue];
+    
+    float wordsPerMinute = wordsPerLine * linesRead / timeInMinutes ;
+    
+    if (timeInMinutes) {
+        self.wordsPerMinuteLabel.text = [NSString stringWithFormat:@"%.0f", wordsPerMinute];
+    } else {
+        self.wordsPerMinuteLabel.text = @"0";
+    }
+    
+}
+
+
+
+
+#pragma mark - Helper Functions
+
+- (void)dismissKeyboard {
+    
+    [self.view endEditing:NO];
+
+}
+
+#pragma mark - Timer
 
 - (NSTimer *)createTimer {
     return [NSTimer scheduledTimerWithTimeInterval:1.0
@@ -166,7 +187,6 @@
 }
 
 
-
 - (IBAction)startButtonPressed:(id)sender {
     
     if (!_currentTimeInSeconds) {
@@ -180,7 +200,9 @@
 }
 
 - (IBAction)stopButtonPressed:(id)sender {
+    
     [_myTimer invalidate];
+    
 }
 
 - (IBAction)resetButtonPressed:(id)sender {
@@ -189,13 +211,11 @@
         [_myTimer invalidate];
         _myTimer = [self createTimer];
     }
-        
+    
     _currentTimeInSeconds = 0;
     
     self.stopwatchTimeLabel.text = [self formattedTime:_currentTimeInSeconds];
-      
+    
 }
-
-
 
 @end

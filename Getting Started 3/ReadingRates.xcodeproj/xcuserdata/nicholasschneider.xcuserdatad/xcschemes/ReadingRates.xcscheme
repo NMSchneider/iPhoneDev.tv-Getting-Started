@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0460"
+   LastUpgradeVersion = "0500"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "88CB6A57177FD13C00BDF42D"
+               BlueprintIdentifier = "889753CB1831AF42007F70F3"
                BuildableName = "ReadingRates.app"
                BlueprintName = "ReadingRates"
                ReferencedContainer = "container:ReadingRates.xcodeproj">
@@ -28,11 +28,21 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "889753EC1831AF42007F70F3"
+               BuildableName = "ReadingRatesTests.xctest"
+               BlueprintName = "ReadingRatesTests"
+               ReferencedContainer = "container:ReadingRates.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "88CB6A57177FD13C00BDF42D"
+            BlueprintIdentifier = "889753CB1831AF42007F70F3"
             BuildableName = "ReadingRates.app"
             BlueprintName = "ReadingRates"
             ReferencedContainer = "container:ReadingRates.xcodeproj">
@@ -51,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "88CB6A57177FD13C00BDF42D"
+            BlueprintIdentifier = "889753CB1831AF42007F70F3"
             BuildableName = "ReadingRates.app"
             BlueprintName = "ReadingRates"
             ReferencedContainer = "container:ReadingRates.xcodeproj">
@@ -69,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "88CB6A57177FD13C00BDF42D"
+            BlueprintIdentifier = "889753CB1831AF42007F70F3"
             BuildableName = "ReadingRates.app"
             BlueprintName = "ReadingRates"
             ReferencedContainer = "container:ReadingRates.xcodeproj">

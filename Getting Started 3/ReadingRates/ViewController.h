@@ -2,7 +2,7 @@
 //  ViewController.h
 //  ReadingRates
 //
-//  Created by Nicholas Schneider on 6/29/13.
+//  Created by Nicholas Schneider on 11/11/13.
 //  Copyright (c) 2013 Nicholas Schneider. All rights reserved.
 //
 
@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+#pragma mark - Calculator
 // Calculator Components
 @property (weak, nonatomic) IBOutlet UITextField *wordsPerLineTextField;
 @property (weak, nonatomic) IBOutlet UITextField *linesReadTextField;
@@ -24,6 +25,7 @@
 - (IBAction)timeInMinutesInfoButtonPressed:(id)sender;
 
 
+#pragma mark - Stopwatch
 // Stopwatch Components
 - (IBAction)startButtonPressed:(id)sender;
 - (IBAction)stopButtonPressed:(id)sender;
@@ -33,6 +35,5 @@
 
 @property (weak, nonatomic) NSTimer *myTimer;
 @property int currentTimeInSeconds;
-
 
 @end
