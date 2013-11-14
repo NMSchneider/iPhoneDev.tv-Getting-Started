@@ -2,7 +2,7 @@
 //  main.m
 //  ReadingRates
 //
-//  Created by Nicholas Schneider on 6/29/13.
+//  Created by Nicholas Schneider on 11/11/13.
 //  Copyright (c) 2013 Nicholas Schneider. All rights reserved.
 //
 
@@ -10,7 +10,7 @@
 
 #import "AppDelegate.h"
 
-int main(int argc, char *argv[])
+int main(int argc, char * argv[])
 {
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
